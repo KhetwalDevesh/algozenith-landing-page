@@ -179,7 +179,7 @@ export default function Home() {
 			</div>
 
 			<div className="flex xs:flex-col mb-8">
-				<div className="m-24 xs:m-8 xs:mx-6 w-[50vw]">
+				<div className="m-24 xs:m-8 xs:mx-6 ">
 					<h1 className="xs:text-2xl text-3xl font-rubikBlack font-bold">
 						Invest in skills,
 						<br />{" "}
